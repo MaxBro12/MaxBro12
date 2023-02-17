@@ -13,7 +13,8 @@
   </a>
 </div>
 <div id="view" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaxBro12&style=flat-square&color=blue" align="center" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MaxBro12&style=flat-square&color=blue" alt="View"/>
+  <img src="https://img.shields.io/badge/Looking_for_job-green?style=flat-square" alt="Want to find Work!"/>
  </div>
  
 <div id="header" align="center">
